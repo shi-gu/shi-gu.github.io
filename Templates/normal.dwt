@@ -9,8 +9,8 @@
     <title>Ollie Landing page | Free Bootstrap 4.3.x landing page</title>
     <!-- TemplateEndEditable -->
     <!-- font icons -->
-    <link rel="stylesheet" title="对于“在浏览器中预览”为禁用: assets/vendors/themify-icons/css/themify-icons.css">
-<style type="text/css">
+<!--    <link rel="stylesheet" title="对于“在浏览器中预览”为禁用: assets/vendors/themify-icons/css/themify-icons.css">
+--><style type="text/css">
 <!--
 
 @font-face {
@@ -12512,9 +12512,9 @@ p {
 }
 
 .textmonial-item .avatar {
-  min-width: 150px;
+  min-width: 50px;
   max-width: 150px;
-  min-height: 150px;
+  min-height: 50px;
   max-height: 150px;
   border-radius: 50%;
   margin-right: 40px;
